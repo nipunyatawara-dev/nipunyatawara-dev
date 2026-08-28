@@ -30,6 +30,11 @@
   </tr>
   <tr>
     <td><strong>Application</strong><br><sub>macOS</sub></td>
+    <td><strong>Burrow</strong><br><sub>A native macOS interface for the open-source Mole CLI.</sub></td>
+    <td align="right"><a href="https://github.com/nipunyatawara-dev/Burrow">SOURCE ↗</a></td>
+  </tr>
+  <tr>
+    <td><strong>Application</strong><br><sub>macOS</sub></td>
     <td><strong>NetCollect</strong><br><sub>Per-app network usage, live bandwidth, historical charts, and local SQLite storage for macOS.</sub></td>
     <td align="right"><a href="https://github.com/nipunyatawara-dev/NetCollect">SOURCE ↗</a></td>
   </tr>
