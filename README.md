@@ -5,6 +5,12 @@
   <a href="mailto:nipunyatawara.dev@gmail.com"><code>EMAIL</code></a>
 </p>
 
+## About
+
+I like software with a physical edge: menu bar tools, system tray utilities, local-first workspaces, and interfaces that make difficult subjects feel tangible. I build for the browser when it is the right surface, and closer to the operating system when it isn't.
+
+Software engineering undergraduate in Colombo, Sri Lanka. Currently working across TypeScript, React, Next.js, Swift, Python, and C#.
+
 ## Projects
 
 <table>
