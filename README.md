@@ -1,5 +1,8 @@
 <p align="center">
   <a href="https://www.shocka.site"><code>shocka.site</code></a>&nbsp;&nbsp;
+  .
+  <a href="https://ko-fi.com/nipunyatawara"><code>buy me a coffee</code></a>
+  .
   <a href="mailto:nipunyatawara.dev@gmail.com"><code>EMAIL</code></a>
 </p>
 
