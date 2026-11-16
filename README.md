@@ -36,6 +36,16 @@ Software engineering undergraduate in Colombo, Sri Lanka. Currently working acro
     <td align="right"><a href="https://omnisync-desktop.vercel.app/">PRODUCT PAGE ↗</a><br><a href="https://github.com/nipunyatawara-dev/OmniSync">SOURCE ↗</a></td>
   </tr>
   <tr>
+    <td><strong>Desktop app</strong><br><sub>macOS · Windows</sub></td>
+    <td><strong>YT Down</strong><br><sub>A small Rust app for saving YouTube videos, audio, and subtitles, with a download queue that keeps your place between launches.</sub></td>
+    <td align="right"><a href="https://github.com/nipunyatawara-dev/yt-down">SOURCE ↗</a></td>
+  </tr>
+  <tr>
+    <td><strong>Desktop app</strong><br><sub>macOS · Windows</sub></td>
+    <td><strong>Duocle</strong><br><sub>An open-source focus utility that keeps your active window sharp and blurs the rest of your desktop.</sub></td>
+    <td align="right"><a href="https://github.com/nipunyatawara-dev/Duocle">SOURCE ↗</a></td>
+  </tr>
+  <tr>
     <td><strong>Application</strong><br><sub>macOS</sub></td>
     <td><strong>NetCollect</strong><br><sub>Per-app network usage, live bandwidth, historical charts, and local SQLite storage for macOS.</sub></td>
     <td align="right"><a href="https://github.com/nipunyatawara-dev/NetCollect">SOURCE ↗</a></td>
