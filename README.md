@@ -21,9 +21,9 @@ Software engineering undergraduate in Colombo, Sri Lanka. Currently working acro
     <td width="20%" align="right"><a href="https://atomic-atelier.vercel.app/">VISIT SITE ↗</a><br><a href="https://github.com/nipunyatawara-dev/Atomic-Atelier">SOURCE ↗</a></td>
   </tr>
   <tr>
-    <td><strong>SaaS</strong><br><sub>Web app</sub></td>
-    <td><strong>BillCraft</strong><br><sub>A local-first invoice workspace for freelancers and small teams. Clients, tracking, analytics, and exports stay together.</sub></td>
-    <td align="right"><a href="https://github.com/nipunyatawara-dev/Billcraft-invoice-manager">SOURCE ↗</a></td>
+    <td><strong>Desktop app</strong><br><sub>macOS · Windows</sub></td>
+    <td><strong>BillFlow</strong><br><sub>A local-first workspace for freelancers to manage invoices, client work, subcontractor payouts, and profit.</sub></td>
+    <td align="right"><a href="https://github.com/Akatsuki-61/BillFlow">SOURCE ↗</a></td>
   </tr>
   <tr>
     <td><strong>Website</strong><br><sub>Curated index</sub></td>
