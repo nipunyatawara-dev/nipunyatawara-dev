@@ -1,71 +1,25 @@
-<p align="center">
-  <a href="https://www.shocka.site"><code>shocka.site</code></a>&nbsp;&nbsp;
-  .
-  <a href="https://ko-fi.com/nipunyatawara"><code>buy me a coffee</code></a>
-  .
-  <a href="mailto:nipunyatawara.dev@gmail.com"><code>EMAIL</code></a>
-</p>
+# Hi, I’m Nipun Yatawara
 
-## About Me
+I’m based in Colombo and study software engineering at The Open University of Sri Lanka. I build local-first apps and small desktop utilities, and I like making free alternatives to paid tools.
 
-I like software with a physical edge. Like menu bar tools, system tray utilities, local-first workspaces, and interfaces that make difficult tools feel approachable.
+[Personal website](https://www.shocka.site) · [Email](mailto:nipunyatawara.dev@gmail.com) · [Buy me a coffee](https://ko-fi.com/nipunyatawara)
 
-Software engineering undergraduate in Colombo, Sri Lanka. Currently working across TypeScript, React, Next.js, Swift, Python, and C#.
+## Desktop apps
 
-## My Projects
+### macOS and Windows
 
-<table>
-  <tr>
-    <td width="18%"><strong>Website</strong><br><sub>Web · 3D</sub></td>
-    <td width="62%"><strong>Atomic Atelier</strong><br><sub>All 118 elements explored through 3D atomic models, trends, quizzes, comparisons, and a guided reaction lab.</sub></td>
-    <td width="20%" align="right"><a href="https://atomic-atelier.vercel.app/">VISIT SITE ↗</a><br><a href="https://github.com/nipunyatawara-dev/Atomic-Atelier">SOURCE ↗</a></td>
-  </tr>
-  <tr>
-    <td><strong>Desktop app</strong><br><sub>macOS · Windows</sub></td>
-    <td><strong>BillFlow</strong><br><sub>A local-first workspace for freelancers to manage invoices, client work, subcontractor payouts, and profit.</sub></td>
-    <td align="right"><a href="https://github.com/Akatsuki-61/BillFlow">SOURCE ↗</a></td>
-  </tr>
-  <tr>
-    <td><strong>Website</strong><br><sub>Curated index</sub></td>
-    <td><strong>Random Stuff</strong><br><sub>A maintained field guide to useful, strange, and interesting websites, tools, and scripts.</sub></td>
-    <td align="right"><a href="https://randomstuff.shocka.site/">VISIT SITE ↗</a><br><a href="https://github.com/nipunyatawara-dev/random-stuff-site">SOURCE ↗</a></td>
-  </tr>
-  <tr>
-    <td><strong>Desktop app</strong><br><sub>macOS · Windows</sub></td>
-    <td><strong>OmniSync</strong><br><sub>A workspace launcher and sync dashboard for repositories that live locally and on GitHub.</sub></td>
-    <td align="right"><a href="https://omnisync-desktop.vercel.app/">PRODUCT PAGE ↗</a><br><a href="https://github.com/nipunyatawara-dev/OmniSync">SOURCE ↗</a></td>
-  </tr>
-  <tr>
-    <td><strong>Desktop app</strong><br><sub>macOS · Windows</sub></td>
-    <td><strong>YT Down</strong><br><sub>A small Rust app for saving YouTube videos, audio, and subtitles, with a download queue that keeps your place between launches.</sub></td>
-    <td align="right"><a href="https://github.com/nipunyatawara-dev/yt-down">SOURCE ↗</a></td>
-  </tr>
-  <tr>
-    <td><strong>Desktop app</strong><br><sub>macOS · Windows</sub></td>
-    <td><strong>Duocle</strong><br><sub>An open-source focus utility that keeps your active window sharp and blurs the rest of your desktop.</sub></td>
-    <td align="right"><a href="https://github.com/nipunyatawara-dev/Duocle">SOURCE ↗</a></td>
-  </tr>
-  <tr>
-    <td><strong>Desktop app</strong><br><sub>macOS</sub></td>
-    <td><strong>NetCollect</strong><br><sub>Per-app network usage, live bandwidth, historical charts, and local SQLite storage for macOS.</sub></td>
-    <td align="right"><a href="https://github.com/nipunyatawara-dev/NetCollect">SOURCE ↗</a></td>
-  </tr>
-  <tr>
-    <td><strong>Desktop app</strong><br><sub>macOS</sub></td>
-    <td><strong>HiDPI Toggle</strong><br><sub>A tiny menu bar utility that unlocks HiDPI and Retina scaling on external displays.</sub></td>
-    <td align="right"><a href="https://github.com/nipunyatawara-dev/HiDPI-Toggle">SOURCE ↗</a></td>
-  </tr>
-  <tr>
-    <td><strong>Desktop app</strong><br><sub>Windows</sub></td>
-    <td><strong>PowerPlan Switcher</strong><br><sub>Instant power-plan switching from a compact interface or the Windows system tray.</sub></td>
-    <td align="right"><a href="https://github.com/nipunyatawara-dev/windows-powerplan-switcher">SOURCE ↗</a></td>
-  </tr>
-</table>
+- **[BillFlow](https://github.com/Akatsuki-61/BillFlow)** — A local-first workspace for managing invoices, client work, subcontractor payouts, and profit.
+- **[Duocle](https://github.com/nipunyatawara-dev/Duocle)** — Keeps the window you’re working in sharp and blurs the rest of the desktop.
+- **[YT Down](https://github.com/nipunyatawara-dev/yt-down)** — A small Rust app for saving YouTube videos, audio, and subtitles, with a queue that picks up where you left off.
+- **[OmniSync](https://github.com/nipunyatawara-dev/OmniSync)** — Launch local workspaces and see which repositories need to sync with GitHub. [Product page](https://omnisync-desktop.vercel.app/)
 
-### `WORKING SET`
+### System utilities
 
-`TypeScript` · `React` · `Next.js` · `Swift` · `Python` · `C#` · `Tailwind CSS` · `Git`
+- **[NetCollect](https://github.com/nipunyatawara-dev/NetCollect)** · macOS — See which apps are using your network and how much data they’ve used over time.
+- **[HiDPI Toggle](https://github.com/nipunyatawara-dev/HiDPI-Toggle)** · macOS — Turn on Retina scaling for external displays from the menu bar.
+- **[PowerPlan Switcher](https://github.com/nipunyatawara-dev/windows-powerplan-switcher)** · Windows — Switch power plans from the system tray.
 
-<sub>The complete archive, case studies, and earlier creative work live at <a href="https://www.shocka.site">shocka.site</a>.</sub>
+## Web projects
 
-<!-- Add future featured projects to the table above this line. -->
+- **[Atomic Atelier](https://github.com/nipunyatawara-dev/Atomic-Atelier)** — Explore all 118 elements in 3D, compare periodic trends, and try quizzes and a guided reaction lab. [Visit site](https://atomic-atelier.vercel.app/)
+- **[Random Stuff](https://github.com/nipunyatawara-dev/random-stuff-site)** — A curated directory of useful and unusual websites, apps, and scripts. [Visit site](https://randomstuff.shocka.site/)
