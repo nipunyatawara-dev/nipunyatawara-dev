@@ -46,17 +46,17 @@ Software engineering undergraduate in Colombo, Sri Lanka. Currently working acro
     <td align="right"><a href="https://github.com/nipunyatawara-dev/Duocle">SOURCE ↗</a></td>
   </tr>
   <tr>
-    <td><strong>Application</strong><br><sub>macOS</sub></td>
+    <td><strong>Desktop app</strong><br><sub>macOS</sub></td>
     <td><strong>NetCollect</strong><br><sub>Per-app network usage, live bandwidth, historical charts, and local SQLite storage for macOS.</sub></td>
     <td align="right"><a href="https://github.com/nipunyatawara-dev/NetCollect">SOURCE ↗</a></td>
   </tr>
   <tr>
-    <td><strong>Application</strong><br><sub>macOS</sub></td>
+    <td><strong>Desktop app</strong><br><sub>macOS</sub></td>
     <td><strong>HiDPI Toggle</strong><br><sub>A tiny menu bar utility that unlocks HiDPI and Retina scaling on external displays.</sub></td>
     <td align="right"><a href="https://github.com/nipunyatawara-dev/HiDPI-Toggle">SOURCE ↗</a></td>
   </tr>
   <tr>
-    <td><strong>Application</strong><br><sub>Windows</sub></td>
+    <td><strong>Desktop app</strong><br><sub>Windows</sub></td>
     <td><strong>PowerPlan Switcher</strong><br><sub>Instant power-plan switching from a compact interface or the Windows system tray.</sub></td>
     <td align="right"><a href="https://github.com/nipunyatawara-dev/windows-powerplan-switcher">SOURCE ↗</a></td>
   </tr>
